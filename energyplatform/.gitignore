@@ -31,3 +31,21 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### React / Node ###
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+### Python ###
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+### Environment / secrets ###
+.env
+*.env
+
+### Logs ###
+*.log
